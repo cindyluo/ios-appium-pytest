@@ -1,0 +1,21 @@
+iPhone_SE_3:
+  platformName: "iOS"
+  automationName: "XCUITest"
+  platformVersion: "15.5"
+  deviceName: "iPhone SE 3"
+  language: en
+  locale: US
+  bundleId: "com.apple.Preferences"
+  noReset: "false"
+  udid: 00008110-000C38812E00401E
+
+iPhone_7_Plus:
+  platformName: "iOS"
+  automationName: "XCUITest"
+  platformVersion: "15.6"
+  deviceName: "iPhone 7 Plus"
+  language: en
+  locale: US
+  bundleId: "com.apple.Preferences"
+  noReset: "false"
+  udid: 840c6b7425cab1c0a3be8f6d103b79cdcbfc2b88
